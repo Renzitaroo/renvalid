@@ -5,6 +5,10 @@
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB.svg?logo=react&logoColor=black)](https://vitejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Design-Anti--AI--Slop%20Swiss%20Forensic-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
+<p align="center">
+  <img src="assets/preview.png" alt="RENVALID Terminal Interface" width="100%" />
+</p>
+
 **RENVALID** adalah platform terminal pemeriksa keabsahan fakta dan penangkal disinformasi independen. Dirancang untuk memverifikasi kebenaran klaim, berita viral, pesan berantai WhatsApp, dan dokumen tangkapan layar secara instan dengan bukti multi-sumber resmi (Wikipedia Indonesia API, DuckDuckGo Web Search, dan media terverifikasi Dewan Pers).
 
 ---
