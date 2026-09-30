@@ -1,0 +1,111 @@
+/* Swiss Industrial & Forensic CSS - Anti-AI Slop */
+body {
+  margin: 0;
+  background-color: #F8F8F5;
+  color: #09090B;
+}
+
+/* Authentic Rubber Stamp Effect */
+.forensic-stamp {
+  position: relative;
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  padding: 0.4rem 0.9rem;
+  border-radius: 2px;
+  transform: rotate(-1.2deg);
+}
+
+.stamp-danger {
+  background-color: #FEF2F2;
+  color: #DC2626;
+  border: 2px solid #DC2626;
+  box-shadow: 2px 2px 0px #DC2626;
+}
+
+.stamp-success {
+  background-color: #F0FDF4;
+  color: #16A34A;
+  border: 2px solid #16A34A;
+  box-shadow: 2px 2px 0px #16A34A;
+}
+
+.stamp-warning {
+  background-color: #FFFBEB;
+  color: #D97706;
+  border: 2px solid #D97706;
+  box-shadow: 2px 2px 0px #D97706;
+}
+
+.stamp-neutral {
+  background-color: #F4F4F5;
+  color: #52525B;
+  border: 2px solid #52525B;
+  box-shadow: 2px 2px 0px #52525B;
+}
+
+/* Tactile Box with Hard Offset Shadow */
+.tactile-box {
+  background-color: #FFFFFF;
+  border: 1.5px solid #09090B;
+  box-shadow: 4px 4px 0px #09090B;
+  transition: all 0.15s ease;
+}
+
+.tactile-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E4E4E7;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tactile-card:hover {
+  border-color: #09090B;
+  transform: translateY(-2px);
+  box-shadow: 3px 3px 0px #09090B;
+}
+
+/* Tactile Button */
+.tactile-btn {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1.5px solid #09090B;
+  background-color: #09090B;
+  color: #FAFAFA;
+  box-shadow: 3px 3px 0px #09090B;
+  transition: all 0.1s ease;
+}
+
+.tactile-btn:hover {
+  background-color: #27272A;
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px #09090B;
+}
+
+.tactile-btn:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #09090B;
+}
+
+/* Secondary Chip Button */
+.chip-btn {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: 1px solid #D4D4D8;
+  background-color: #FFFFFF;
+  color: #18181B;
+  padding: 0.35rem 0.75rem;
+  border-radius: 3px;
+  transition: all 0.1s ease;
+}
+
+.chip-btn:hover {
+  border-color: #09090B;
+  background-color: #F4F4F5;
+  transform: translateY(-1px);
+}
